@@ -5,9 +5,7 @@
 - 💬 Entre em contato comigo: kayke.contato21@gmail.com
 - 🤓 Ciência da computação 
 
-## Olá, Sou Kayke Laurindo. Bem vindo ao meu perfil no github
-
-## Contato
+## Olá, Sou Kayke Laurindo. Seja Bem vindo ao meu perfil no github 😁
 <div align="left">
     <a href="https://www.linkedin.com/in/kayke-laurindo-120471234/">
         <img align="center" alt="Rafa-js"
