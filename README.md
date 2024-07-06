@@ -1,7 +1,7 @@
  <img width=150% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
 - 👨‍💻 Trabalhando com Advpl, TLPP, Angular, SQL
-- 🦫 Estudando Golang
+- 🦦 Estudando Golang
   <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
 - 💬 Entre em contato comigo: kayke.contato21@gmail.com
