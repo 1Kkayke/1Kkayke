@@ -1,13 +1,13 @@
  <img width=150% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
-- 👨‍💻 Trabalhando com Advpl, TLPP, Angular, SQL
-- 🦦 Estudando Golang
+- 👨‍💻 Working with Advpl, TLPP, Angular, SQL
+- 🦦 studying GoLang 
   <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
-- 💬 Entre em contato comigo: kayke.contato21@gmail.com
-- 🤓 Ciência da computação 
+- 💬 Mail for contacts: kayke.contato21@gmail.com
+- 🤓 Computer Science 
 
-## Olá, Sou Kayke Laurindo. Seja Bem vindo ao meu perfil no github 😁  
+## Hello World, my name is Kayke Laurindo 😁  
 <div align="left">
 </a>
 </h3>
