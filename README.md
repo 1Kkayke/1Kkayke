@@ -27,7 +27,7 @@
     />
 </picture>
 
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=1Kkayke&locale=en&hide_title=false&layout=compact&card_width=220&langs_count=9&theme=dracula&hide_border=false&order=2" height="170" alt="languages graph" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=1Kkayke&locale=en&hide_title=false&layout=compact&card_width=220&langs_count=9&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph" />
 </div>
 
 
