@@ -1,6 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
 - 👨‍💻 Working with Advpl, TLPP, Angular, SQL
+- 🧐 19 Years
+- 🫡 Coding by 3 years
 - 🦦 Studying GoLang 
   <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
