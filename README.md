@@ -3,7 +3,7 @@
 - 👨‍💻 Working with Advpl, TLPP, Angular, SQL
 - 🧐 19 Years
 - 🫡 Coding by 3 years
-- 🦦 Studying GoLang 
+- 🦦 Studying GoLang and Python 🐍
   <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
 - 💬 Mail for contacts: kayke.contato21@gmail.com
